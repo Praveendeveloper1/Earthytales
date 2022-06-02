@@ -1,0 +1,105 @@
+body{
+    text-decoration: none;
+}
+.navbar-brand{
+    height: 45px;
+    margin-left: 100px;
+    color: yellowgreen !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.searchBar input{
+    width: 450px;
+    margin-left: 30px;
+    height: 40px;
+    /* border: none; */
+}
+.fa-magnifying-glass{
+    position: absolute;
+    margin-left: -20px;
+    margin-top: 13px;
+}
+.login{
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 3px;
+    border: none;
+}
+.login .btn:hover{
+    background-color: green;
+}
+.nav-link{
+    text-decoration: none !important;
+}
+.dropdown .nav-link{
+    text-decoration: none !important;
+    margin-left: 30px;
+    margin-top: 9px;
+    color: yellowgreen !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.refer .nav-link{
+    margin-left: 30px;
+    margin-top: 9px;
+    color: yellowgreen !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cart .nav-link{
+    margin-left: 30px;
+    margin-top: 9px;
+    color: yellowgreen !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contact .nav-link{
+    margin-left: 30px;
+    margin-top: 9px;
+    color: yellowgreen !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.carousel-item img{
+    height: 300px !important;
+    width: 100%;
+    display: inline-block;
+}
+.btn-success{
+    width: 50%;
+    height: 50px;
+}
+.arrival{
+    color: yellowgreen;
+}
+.newArrival{
+    width: 100%;
+    height: 210px;
+}
+.buyNow{
+    background-color: green;
+    color: #fff;
+    margin-left: 135px;
+    width: 100px;
+    height: 40px;
+    border: none;
+}
+footer img{
+    width: 100%;
+}
+.social a{
+    float: left;
+    font-size: 50px;
+    margin-right: 10px;
+    /* color: #fff; */
+}
+.social{
+    margin-left: 40%;
+    line-height: 38px;
+    text-align: center;
+    display: block;
+    float: left
+}
+.footertext{
+    text-align: center;
+    margin-top: 50px;
+}
